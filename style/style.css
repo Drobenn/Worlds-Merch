@@ -1,0 +1,30 @@
+
+/* body {
+    background-image:url( "../img/Sem título.png");
+    background-repeat: no-repeat;
+} */
+
+nav {
+    height: 150px;
+    padding: 2em;
+    font-size: 25px;
+    position: fixed;
+    width: 100%;
+    z-index: 1000000000;
+}
+
+#produtos, #sobre, #fale {
+    min-height: 100vm;
+    padding: 4em;
+}
+
+
+.azul {
+    
+    color: #085064;
+}
+
+
+#produtos {
+    background-color: white;
+}
